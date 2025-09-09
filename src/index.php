@@ -33,21 +33,21 @@
     <p>Selecciona una secciona un ejercicio para ver la solución:</p>
 
     <ul>
-        <li><a href="ejercicio01/index.php">🪙 Cambio de moneda</a></li>
-        <li><a href="ejercicio02/index.php">💰 Total factura</a></li>
-        <li><a href="ejercicio03/index.php">📱 Volumen cono</a></li>
-        <li><a href="ejercicio04/index.php">👋 Saludo</a></li>
-        <li><a href="ejercicio05/index.php">💸 Salario</a></li>
-        <li><a href="ejercicio06/index.php">🔮 Horóscopo</a></li>
-        <li><a href="ejercicio07/index.php">🌙 Medianoche</a></li>
-        <li><a href="ejercicio08/index.php">🔢 De menor a mayor</a></li>
-        <li><a href="ejercicio09/index.php">✖️ Tabla de multiplicar></li>
-        <li><a href="ejercicio10/index.php">🧮 Media aritmética</a></li>
-        <li><a href="ejercicio11/index.php">🤔 Fibonacci</a></li>
-        <li><a href="ejercicio12/index.php">🪄 Pirámide</a></li>
-        <li><a href="ejercicio13/index.php">❗ Factorial</a></li>
-        <li><a href="ejercicio14/index.php">♣️ Juego de cartas</a></li>
-        <li><a href="ejercicio15/index.php">♟️ Ajedrez</a></li>
+        <li><a href="ejercicio01/index.php"> 1. 🪙 Cambio de moneda</a></li>         
+        <li><a href="ejercicio02/index.php"> 2. 💰 Total factura</a></li>
+        <li><a href="ejercicio03/index.php"> 3. 📱 Volumen cono</a></li>
+        <li><a href="ejercicio04/index.php"> 4. 👋 Saludo</a></li>
+        <li><a href="ejercicio05/index.php"> 5. 💸 Salario</a></li>
+        <li><a href="ejercicio06/index.php"> 6. 🔮 Horóscopo</a></li>
+        <li><a href="ejercicio07/index.php"> 7. 🌙 Medianoche</a></li>
+        <li><a href="ejercicio08/index.php"> 8. 🔢 De menor a mayor</a></li>
+        <li><a href="ejercicio09/index.php"> 9. ✖️ Tabla de multiplicar></li>
+        <li><a href="ejercicio10/index.php">10. 🧮 Media aritmética</a></li>
+        <li><a href="ejercicio11/index.php">11. 🤔 Fibonacci</a></li>
+        <li><a href="ejercicio12/index.php">12. 🪄 Pirámide</a></li>
+        <li><a href="ejercicio13/index.php">13. ❗ Factorial</a></li>
+        <li><a href="ejercicio14/index.php">14. ♣️ Juego de cartas</a></li>
+        <li><a href="ejercicio15/index.php">15. ♟️ Ajedrez</a></li>
     </ul>
 </body>
 </html>

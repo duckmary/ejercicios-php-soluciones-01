@@ -13,7 +13,7 @@ echo '<!DOCTYPE html>
     <title>Conversor de Euros a Pesetas</title>
 </head>
 <body>
-    <h2>Conversor de Euros a Pesetas</h2>
+    <h2>1. Conversor de Euros a Pesetas</h2>
     <form method="post">
         <label for="euros">Introduce la cantidad en euros:</label>
         <input type="number" step="0.01" name="euros" id="euros" required>
@@ -27,3 +27,10 @@ if (isset($pesetas)) {
 echo '</body>
 </html>';
 ?>
+
+<!-- Botón para volver a index.php -->
+<br><br>
+<form action="../index.php" method="get">
+  <input type="submit" value="Página principal..." style="background-color: blue; color: white; padding: 8px 16px; border: none; cursor: pointer;">
+</form>
+

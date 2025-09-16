@@ -14,7 +14,7 @@ echo '<!DOCTYPE html>
     <title>Volumen de un Cono</title>
 </head>
 <body>
-    <h2>Calculadora de Volumen de un Cono</h2>
+    <h2>3. Calculadora de Volumen de un Cono</h2>
     <form method="post">
         <label for="radio">Radio (r):</label>
         <input type="number" step="0.01" name="radio" id="radio" required><br><br>
@@ -31,3 +31,8 @@ echo '</body>
 </html>';
 ?>
 
+<!-- Botón para volver a index.php -->
+<br><br>
+<form action="../index.php" method="get">
+  <input type="submit" value="Página principal..." style="background-color: blue; color: white; padding: 8px 16px; border: none; cursor: pointer;">
+</form>

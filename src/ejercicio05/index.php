@@ -31,7 +31,7 @@ echo '<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <h2>Calculadora de Salario Semanal</h2>
+    <h2>5. Calculadora de Salario Semanal</h2>
     <form method="post">
         <label for="horas">Horas trabajadas esta semana:</label>
         <input type="number" name="horas" id="horas" min="0" required>
@@ -46,3 +46,9 @@ if (isset($salario)) {
 echo '</body>
 </html>';
 ?>
+
+<!-- Botón para volver a index.php -->
+<br><br>
+<form action="../index.php" method="get">
+  <input type="submit" value="Página principal..." style="background-color: blue; color: white; padding: 8px 16px; border: none; cursor: pointer;">
+</form>

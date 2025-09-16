@@ -25,7 +25,7 @@ echo '<!DOCTYPE html>
     <title>Saludo según la hora</title>
 </head>
 <body>
-    <h2>¿Qué saludo corresponde a esta hora?</h2>
+    <h2>4. ¿Qué saludo corresponde a esta hora?</h2>
     <form method="post">
         <label for="hora">Introduce la hora (0–24):</label>
         <input type="number" name="hora"  min="0" max="24" required>
@@ -39,3 +39,9 @@ if (isset($saludo)) {
 echo '</body>
 </html>';
 ?>
+
+<!-- Botón para volver a index.php -->
+<br><br>
+<form action="../index.php" method="get">
+  <input type="submit" value="Página principal..." style="background-color: blue; color: white; padding: 8px 16px; border: none; cursor: pointer;">
+</form>

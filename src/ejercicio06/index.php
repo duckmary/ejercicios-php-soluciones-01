@@ -5,7 +5,7 @@
     <title>Consulta tu Horóscopo</title>
 </head>
 <body>
-    <h2>Descubre tu signo del horóscopo</h2>
+    <h2>6. Descubre tu signo del horóscopo</h2>
 
     <form method="post">
         <label for="dia">Día:</label>
@@ -55,5 +55,12 @@
         echo "<h3>Tu signo del horóscopo es: <strong>$signo</strong></h3>";
     }
     ?>
+
+    <!-- Botón para volver a index.php -->
+<br><br>
+<form action="../index.php" method="get">
+  <input type="submit" value="Página principal..." style="background-color: blue; color: white; padding: 8px 16px; border: none; cursor: pointer;">
+</form>
+
 </body>
 </html>
